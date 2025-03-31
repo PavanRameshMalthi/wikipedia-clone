@@ -1,1 +1,1 @@
-# wikepidea-clone
+wikipedia-clone
